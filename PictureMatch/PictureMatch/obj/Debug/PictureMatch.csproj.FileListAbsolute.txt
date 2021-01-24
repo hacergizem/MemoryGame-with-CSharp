@@ -1,0 +1,11 @@
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\bin\Debug\PictureMatch.exe.config
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\bin\Debug\PictureMatch.exe
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\bin\Debug\PictureMatch.pdb
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.csprojAssemblyReference.cache
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.Properties.Resources.resources
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.csproj.GenerateResource.cache
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.csproj.CoreCompileInputs.cache
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.exe
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.pdb
+C:\Users\giz\source\repos\PictureMatch\PictureMatch\obj\Debug\PictureMatch.MatchingGame.resources
+
